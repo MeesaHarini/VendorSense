@@ -1,0 +1,13 @@
+[theme]
+base = "dark"
+primaryColor = "#6C63FF"
+backgroundColor = "#090D14"
+secondaryBackgroundColor = "#0C1119"
+textColor = "#F4F7FB"
+borderColor = "#222D3D"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "medium"
+buttonRadius = "medium"
+linkColor = "#8C98FF"
+codeBackgroundColor = "#111722"
