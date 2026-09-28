@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+
+users/
+invoice_archive/
+vendorsense_users.json
+vendorsense_database.json
+vendorsense_history.json
+vendorsense_state.json
+parsed_invoice.json
